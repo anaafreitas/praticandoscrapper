@@ -1,0 +1,2 @@
+# praticandoscrapper
+puppeteer e scrapper
